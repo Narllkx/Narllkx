@@ -1,5 +1,5 @@
-<h1 align="center">Привет меня зовут / Hi my name is: Нариман / Nariman</h1>
-<h3 align="center">Я являюсь начинающим фронтенд разработчиком! Родился я 15 августа 2007 года. Начал изучение фронтенда в 2021 году после чего в 2022 пошёл на стажировку в компанию "Data-Site Technology"! В 2023 году был небольшой опыт работы в сфере работы Дизайнера в компании "WoodlyWorld". Более подробная информация ниже ---> / I am a beginner frontend developer! I was born on August 15, 2007. I started studying the frontend in 2021, after which in 2022 I went for an internship at the "Data-Site Technology" company! In 2023, there was a little experience in the field of work as a Designer at "WoodleyWorld". More details below ---></h3>
+<h1 align="left">Привет меня зовут / Hi my name is: Нариман / Nariman</h1>
+<h3 align="left">Я являюсь начинающим фронтенд разработчиком! Родился я 15 августа 2007 года. Начал изучение фронтенда в 2021 году после чего в 2022 пошёл на стажировку в компанию "Data-Site Technology"! В 2023 году был небольшой опыт работы в сфере работы Дизайнера в компании "WoodlyWorld". Более подробная информация ниже ---> / I am a beginner frontend developer! I was born on August 15, 2007. I started studying the frontend in 2021, after which in 2022 I went for an internship at the "Data-Site Technology" company! In 2023, there was a little experience in the field of work as a Designer at "WoodleyWorld". More details below ---></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
